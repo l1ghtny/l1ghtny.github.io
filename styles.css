@@ -133,8 +133,3 @@ p {
 .post-container:nth-child(even) {
   background-color: #f2f2f2
 }
-
-.about-author img {
-  width: 150px;
-  height: 216px;
-}
